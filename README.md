@@ -53,7 +53,7 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/a959194b-ffd9-4291-afb4-747aa78c2fc0"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/01746b14-b234-46a7-ad44-dacba182cf66"  />
 </div>
 
 ###
