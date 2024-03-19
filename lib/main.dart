@@ -65,7 +65,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
                 const TextSpan(
-                  text: ' ',
+                  text: '  ',
                 ),
                 WidgetSpan(
                   child: Container(
