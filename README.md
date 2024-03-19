@@ -1,4 +1,4 @@
-<h1 align="center"> 🔸 Images Of This Project 🔸 </h1>
+<h1 align="center"> 🔸 Quick Starter & Designer 🔸 </h1>
 
 <h3 align="center"> 1.First Task </h3>
 
