@@ -5,7 +5,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({super.key});
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -33,11 +33,11 @@ class MyApp extends StatelessWidget {
             ),
           ],
         ),
-        body: const Center(
+        body: Center(
           child: Text.rich(
             TextSpan(
               children: [
-                TextSpan(
+                const TextSpan(
                   text: 'RichText Helps to Create',
                   style: TextStyle(
                     color: Color(0xff818181),
@@ -45,7 +45,7 @@ class MyApp extends StatelessWidget {
                     fontWeight: FontWeight.w400,
                   ),
                 ),
-                TextSpan(
+                const TextSpan(
                   text: '\nHighlighted',
                   style: TextStyle(
                     color: Colors.red,
@@ -54,7 +54,7 @@ class MyApp extends StatelessWidget {
                     fontStyle: FontStyle.italic,
                   ),
                 ),
-                TextSpan(
+                const TextSpan(
                   text: '\nClickable,',
                   style: TextStyle(
                     color: Colors.blue,
@@ -64,14 +64,28 @@ class MyApp extends StatelessWidget {
                     decorationColor: Colors.blue,
                   ),
                 ),
-                TextSpan(
-                  text: '  OutlinedText,',
-                  style: TextStyle(
-                    color: Color(0xFF48AC4C),
-                    fontSize: 23,
+                const TextSpan(
+                  text: ' ',
+                ),
+                WidgetSpan(
+                  child: Container(
+                    height: 30,
+                    width: 135,
+                    decoration: BoxDecoration(
+                      border: Border.all(color: Colors.green, width: 2.4),
+                    ),
+                    child: const Center(
+                      child: Text(
+                        'Outlined Text',
+                        style: TextStyle(
+                          fontSize: 20,
+                          color: Colors.green,
+                        ),
+                      ),
+                    ),
                   ),
                 ),
-                TextSpan(
+                const TextSpan(
                   text: '\n    Say Hi To Rich Text',
                   style: TextStyle(
                     color: Color(0xff818181),
