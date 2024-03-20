@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/19da45f2-c925-413d-8df2-afe889f032ff"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/245ef4b4-faaa-4047-8e2e-d4a5fd43c9f3"  />
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/a331aace-6c72-4b55-b5e4-d99ef024fa42"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/c80db72c-d981-41d6-80b9-f0d15103a3dd"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/01746b14-b234-46a7-ad44-dacba182cf66"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/aa2f9d74-482e-4c2f-933f-80540af33c22"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 ###
 
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/9d5ae0d2-74e0-42df-9b29-a5e8bffb4c73"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/da4e0ff8-0bb6-49b6-adf3-42f452ae3fa4"  />
 </div>
 
 ###
