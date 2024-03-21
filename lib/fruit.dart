@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
             style: TextStyle(
               color: Colors.white,
               fontWeight: FontWeight.bold,
-              fontSize: 25,
+              fontSize: 27,
               letterSpacing: 1,
             ),
           ),
@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Colors.red,
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Colors.purple,
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -53,7 +53,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Color(0xffE040FB),
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Colors.pink,
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Colors.orange,
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -80,7 +80,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Color(0xff4CAF50),
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -89,7 +89,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Color(0xffFFC107),
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -98,7 +98,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Color(0xff659e18),
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -107,7 +107,7 @@ class MyApp extends StatelessWidget {
                   style: TextStyle(
                     color: Colors.brown,
                     letterSpacing: 2,
-                    fontSize: 35,
+                    fontSize: 38,
                     fontWeight: FontWeight.bold,
                   ),
                 ),
@@ -119,5 +119,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-
