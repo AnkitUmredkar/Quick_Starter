@@ -1,3 +1,8 @@
+
+
+
+
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -23,6 +28,7 @@ class MyApp extends StatelessWidget {
             'Flutter Rich Text',
             style: TextStyle(
               color: Colors.white,
+              fontSize: 24,
             ),
           ),
           centerTitle: true,
@@ -41,7 +47,7 @@ class MyApp extends StatelessWidget {
                   text: 'RichText Helps to Create',
                   style: TextStyle(
                     color: Color(0xff818181),
-                    fontSize: 22,
+                    fontSize: 27,
                     fontWeight: FontWeight.w400,
                   ),
                 ),
@@ -49,7 +55,7 @@ class MyApp extends StatelessWidget {
                   text: '\nHighlighted',
                   style: TextStyle(
                     color: Colors.red,
-                    fontSize: 48,
+                    fontSize: 58,
                     fontWeight: FontWeight.bold,
                     fontStyle: FontStyle.italic,
                   ),
@@ -58,7 +64,7 @@ class MyApp extends StatelessWidget {
                   text: '\nClickable,',
                   style: TextStyle(
                     color: Colors.blue,
-                    fontSize: 23,
+                    fontSize: 28,
                     fontWeight: FontWeight.w400,
                     decoration: TextDecoration.underline,
                     decorationColor: Colors.blue,
@@ -69,8 +75,8 @@ class MyApp extends StatelessWidget {
                 ),
                 WidgetSpan(
                   child: Container(
-                    height: 30,
-                    width: 135,
+                    height: 32,
+                    width: 160,
                     decoration: BoxDecoration(
                       border: Border.all(color: Colors.green, width: 2.4),
                     ),
@@ -78,7 +84,7 @@ class MyApp extends StatelessWidget {
                       child: Text(
                         'Outlined Text',
                         style: TextStyle(
-                          fontSize: 20,
+                          fontSize: 23,
                           color: Colors.green,
                         ),
                       ),
@@ -89,7 +95,7 @@ class MyApp extends StatelessWidget {
                   text: '\n    Say Hi To Rich Text',
                   style: TextStyle(
                     color: Color(0xff818181),
-                    fontSize: 22,
+                    fontSize: 28,
                     fontWeight: FontWeight.w400,
                   ),
                 ),

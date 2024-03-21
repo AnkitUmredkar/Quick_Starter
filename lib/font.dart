@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           centerTitle: true,
           title: const Text(
             'Rich Text Example',
-            style: TextStyle(color: Colors.white),
+            style: TextStyle(color: Colors.white, fontSize: 24),
           ),
           actions: const [
             Padding(
@@ -41,27 +41,27 @@ class MyApp extends StatelessWidget {
                 TextSpan(
                     text: 'Single ',
                     style: TextStyle(
-                        fontSize: 25,
+                        fontSize: 27,
                         fontWeight: FontWeight.bold,
                         color: Colors.blue)),
                 TextSpan(
                     text: ' Line ',
                     style: TextStyle(
-                        fontSize: 25,
+                        fontSize: 27,
                         fontWeight: FontWeight.bold,
                         backgroundColor: Colors.teal,
                         color: Colors.white)),
                 TextSpan(
                     text: '  Multiple ',
                     style: TextStyle(
-                        fontSize: 25,
-                        fontWeight: FontWeight.bold,
-                        color: Colors.orange,
-                        fontFamily: "")),
+                      fontSize: 27,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.orange,
+                    )),
                 TextSpan(
                     text: ' Style ',
                     style: TextStyle(
-                        fontSize: 25,
+                        fontSize: 27,
                         fontWeight: FontWeight.bold,
                         color: Colors.pink,
                         fontStyle: FontStyle.italic)),
