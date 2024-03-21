@@ -53,8 +53,9 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/aa2f9d74-482e-4c2f-933f-80540af33c22"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/9d465d5b-73b7-4954-929b-d9648b7bdde1"  />
 </div>
+
 
 ###
 <div align="center">
@@ -76,7 +77,7 @@
 ###
 
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/da4e0ff8-0bb6-49b6-adf3-42f452ae3fa4"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/739b3c41-c009-4417-ad22-6659298a8e84"  />
 </div>
 
 ###
