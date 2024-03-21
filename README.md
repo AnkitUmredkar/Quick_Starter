@@ -1,4 +1,4 @@
-<h1 align="center"> 🔸 Images Of This Project 🔸 </h1>
+<h1 align="center"> 🔸 Quick Starter & Designer 🔸 </h1>
 
 <h3 align="center"> 1.First Task </h3>
 
@@ -8,7 +8,7 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/19da45f2-c925-413d-8df2-afe889f032ff"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/245ef4b4-faaa-4047-8e2e-d4a5fd43c9f3"  />
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/a331aace-6c72-4b55-b5e4-d99ef024fa42"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/c80db72c-d981-41d6-80b9-f0d15103a3dd"  />
 </div>
 
 ###
@@ -53,8 +53,9 @@
 
 ###
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/a959194b-ffd9-4291-afb4-747aa78c2fc0"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/9d465d5b-73b7-4954-929b-d9648b7bdde1"  />
 </div>
+
 
 ###
 <div align="center">
@@ -76,7 +77,7 @@
 ###
 
 <div align="center">
-<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/9d5ae0d2-74e0-42df-9b29-a5e8bffb4c73"  />
+<img height="550" src="https://github.com/AnkitUmredkar/Quick_Starter/assets/149374001/739b3c41-c009-4417-ad22-6659298a8e84"  />
 </div>
 
 ###
